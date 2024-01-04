@@ -79,7 +79,7 @@
   <img align="center" alt="Divakaran S | HackerRank" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/SDivakaran" target="_blank">
-  <img align="center" alt="Divakaran S | freecodecamp" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/free.png" />
+  <img align="center" alt="Divakaran S | freecodecamp" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/freecode.png" />
 </a> &nbsp;&nbsp;
 <a href="mailto:divakaran.sivasamy@gmail.com" target="_blank">
   <img align="center" alt="Divakaran S | Gmail" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" />

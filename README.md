@@ -26,7 +26,7 @@
 <img align="left" alt="NodeJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/nodejs.png" />
 <img align="left" alt="ExpressJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/ex.png" />
 <img align="left" alt="Fullstack" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/fullstack.jpg" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/linux.png" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/linux.jpg" />
 <img align="left" alt="PhotoShop" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/ps.png" />
 <br />
 <br />
@@ -97,7 +97,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
+ <!-- <img src="https://profile-counter.glitch.me/darshanr27/count.svg" /> -->  
 </p>
    
   ---

@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats:
 
-![Divakaran S github stats](https://github-readme-stats.vercel.app/api?username=diva-sl&theme=nord&show_icons=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diva-sl&show_icons=true)
 
 <!--   Top Languages Using -->
 
@@ -84,7 +84,7 @@
 <a href="mailto:divakaran.sivasamy@gmail.com" target="_blank">
   <img align="center" alt="Divakaran S | Gmail" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1tsztIkDe3TTbebHEnKP_FxkRhpffIa5n/view">
+<a href="https://drive.google.com/file/d/1mamMmcRazmyrkljq-cc_HOvXpBaRqPoB/view">
     <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>

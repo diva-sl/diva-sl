@@ -43,14 +43,14 @@
 
 ### 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diva-sl&show_icons=true)
+![Divakaran S github stats](https://github-readme-stats.vercel.app/api?username=diva-sl&theme=nord&show_icons=true&count_private=true)
 
 <!--   Top Languages Using -->
 
 ### 👨‍💻 Top Languages Used\*:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=nord_dark&refresh=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=nord_dark&refresh=1)
 
 <!--   GitHub stats graph -->
 

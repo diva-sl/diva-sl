@@ -1,5 +1,9 @@
 ### Hi, I'm Divakaran S <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/Hi.gif" width="22px">
 
+<br />
+<h3 align="center">A passionate Full stack developer from India</h3>
+<br />
+
 ---
 
 <br />
@@ -21,8 +25,8 @@
 <img align="left" alt="PSQL" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/psql.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Database" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/database.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpress.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github-mark.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpress-icon.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/nodejs.png" />
 <img align="left" alt="ExpressJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/ex.png" />
 <img align="left" alt="Fullstack" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/fullstack.jpg" />

@@ -47,24 +47,23 @@
 
 ### 📊 GitHub Stats:
 
-![Divakaran S github stats](https://github-readme-stats.vercel.app/api?username=diva-sl&theme=nord&show_icons=true&count_private=true)
+![Divakaran S github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diva-sl&theme=2077)
 
 <!--   Top Languages Using -->
 
 ### 👨‍💻 Top Languages Used\*:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=nord_dark&refresh=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=nord_dark&refresh=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=2077&refresh=1)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=2077&refresh=1)
 
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diva-sl&theme=github)](https://github.com/diva-sl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diva-sl&theme=2077)
 
  <br>
  <br>
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diva-sl&theme=2077&utcOffset=8) 
  <hr>
  
  <br>

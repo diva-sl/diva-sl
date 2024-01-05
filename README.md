@@ -63,7 +63,6 @@
 
  <br>
  <br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diva-sl&theme=2077&utcOffset=8) 
  <hr>
  
  <br>

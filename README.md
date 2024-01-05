@@ -25,7 +25,7 @@
 <img align="left" alt="PSQL" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/postgre.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Database" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/sql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github.jpg" />
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpres1.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/nodejs.png" />
 <img align="left" alt="ExpressJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/express.png" />

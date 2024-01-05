@@ -22,16 +22,16 @@
 <img align="left" alt="Javascript" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/css.png" />
-<img align="left" alt="PSQL" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/psql.png" />
+<img align="left" alt="PSQL" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/postgre.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Database" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/database.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github-mark.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpress-icon.png" />
+<img align="left" alt="Database" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/sql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpres1.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/nodejs.png" />
-<img align="left" alt="ExpressJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/ex.png" />
-<img align="left" alt="Fullstack" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/fullstack.jpg" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/linux.jpg" />
-<img align="left" alt="PhotoShop" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/ps.png" />
+<img align="left" alt="ExpressJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/express.png" />
+<img align="left" alt="Fullstack" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/fullstack.png" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/linux.png" />
+<img align="left" alt="PhotoShop" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/photoshop.png" />
 <br />
 <br />
 
@@ -80,7 +80,7 @@
   <img align="center" alt="Divakaran S | Linkedin" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/sdivakaran" target="_blank">
-  <img align="center" alt="Divakaran S | HackerRank" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.svg" />
+  <img align="center" alt="Divakaran S | HackerRank" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.png" />
 </a> &nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/SDivakaran" target="_blank">
   <img align="center" alt="Divakaran S | freecodecamp" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/freecode.png" />

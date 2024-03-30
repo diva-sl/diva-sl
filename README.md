@@ -9,7 +9,7 @@
 <br />
 
 - 💻 Currently I'm working as a Full Stack Developer
-- 🌱 I'm learning React and Wordpress
+- 🌱 I'm learning Blackchain technology 
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design

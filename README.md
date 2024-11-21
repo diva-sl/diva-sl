@@ -8,11 +8,11 @@
 
 <br />
 
-- 💻 Currently I'm working as a Full Stack Developer
-- 🌱 I'm learning Blackchain technology 
-- 👯 I’m looking to collaborate on Web Development Projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
+💻 Currently working as a Full Stack Developer
+🌱 Learning Python to expand my technical skills
+👯 Looking to collaborate on web development projects
+😄 Pronouns: He/Him
+⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
 
 <br />
 

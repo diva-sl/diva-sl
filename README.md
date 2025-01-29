@@ -88,7 +88,7 @@
 <a href="mailto:divakaran.sivasamy@gmail.com" target="_blank">
   <img align="center" alt="Divakaran S | Gmail" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1mamMmcRazmyrkljq-cc_HOvXpBaRqPoB/view">
+<a href="https://drive.google.com/file/d/1VZpjovClp3hRfvyqhGTNrO4bBrKlhwMZ/view?usp=drivesdk">
     <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>

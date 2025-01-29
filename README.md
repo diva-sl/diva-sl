@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 <br />
 ---
-
+<br />
 - 💻 Currently working as a Full Stack Developer
 - 🌱 Learning Python to expand my technical skills
 - 👯 Looking to collaborate on web development projects

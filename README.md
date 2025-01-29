@@ -1,9 +1,9 @@
-![My Profile Image](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1743033600&v=beta&t=ILx695S2tG6EdF5p6RX1hay3TtskZ73cBrOVsMhUBGk)
-
 ### Hi, I'm Divakaran S <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/Hi.gif" width="22px">
-
 <br />
 <h3 align="center">A passionate Full stack developer from India</h3>
+<br />
+
+![My Profile Image](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1743033600&v=beta&t=ILx695S2tG6EdF5p6RX1hay3TtskZ73cBrOVsMhUBGk)
 <br />
 
 ---
@@ -38,9 +38,9 @@
 <br />
 
 
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
+<div align="center">
+  <h3><b> ### 😄 Can Connect With Me On</b></h3>
+</div>
 <p align="center">
 <a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank">
   <img align="center" alt="Divakaran S | Portfolio" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" />

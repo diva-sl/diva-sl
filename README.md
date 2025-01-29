@@ -18,6 +18,30 @@
 
 <br />
 
+
+  <div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank">
+  <img align="center" alt="Divakaran S | Portfolio" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/divakarans" target="_blank">
+  <img align="center" alt="Divakaran S | Linkedin" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/sdivakaran" target="_blank">
+  <img align="center" alt="Divakaran S | HackerRank" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.png" />
+</a> &nbsp;&nbsp;
+<a href="https://www.freecodecamp.org/SDivakaran" target="_blank">
+  <img align="center" alt="Divakaran S | freecodecamp" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/freecode.png" />
+</a> &nbsp;&nbsp;
+<a href="mailto:divakaran.sivasamy@gmail.com" target="_blank">
+  <img align="center" alt="Divakaran S | Gmail" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1VZpjovClp3hRfvyqhGTNrO4bBrKlhwMZ/view?usp=drivesdk">
+    <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
+</a> &nbsp;&nbsp;
+<br />
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/react.png" />
@@ -68,29 +92,6 @@
  <hr>
  
  <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank">
-  <img align="center" alt="Divakaran S | Portfolio" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/divakarans" target="_blank">
-  <img align="center" alt="Divakaran S | Linkedin" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/sdivakaran" target="_blank">
-  <img align="center" alt="Divakaran S | HackerRank" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/SDivakaran" target="_blank">
-  <img align="center" alt="Divakaran S | freecodecamp" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/freecode.png" />
-</a> &nbsp;&nbsp;
-<a href="mailto:divakaran.sivasamy@gmail.com" target="_blank">
-  <img align="center" alt="Divakaran S | Gmail" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1VZpjovClp3hRfvyqhGTNrO4bBrKlhwMZ/view?usp=drivesdk">
-    <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
-</a> &nbsp;&nbsp;
 <p>
   
 <br>

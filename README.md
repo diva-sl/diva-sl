@@ -7,6 +7,8 @@
 
 ---
 <h3 align="center">A passionate Full stack developer from India</h3>
+<br />
+
 ---
 
 <br />

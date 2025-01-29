@@ -38,9 +38,9 @@
 <br />
 
 
-<div align="center">
-  <h3><b> ### 😄 Can Connect With Me On</b></h3>
-</div>
+
+### 😄 Can Connect With Me On :
+
 <p align="center">
 <a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank">
   <img align="center" alt="Divakaran S | Portfolio" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" />

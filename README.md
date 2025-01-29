@@ -1,109 +1,25 @@
-![My Profile Image](https://github.com/diva-sl/diva-sl/blob/master/1693753179836.gif)
+Hi, I'm Divakaran S <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/Hi.gif" width="22px">
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+🚀 About Me:
+💻 Currently working as a Full Stack Developer
+🌱 Learning Python to expand my technical skills
+👯 Looking to collaborate on web development projects
+😄 Pronouns: He/Him
+⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
+🔗 Connect With Me:
+<p align="center"> <a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank"> <img align="center" alt="Portfolio" width="30px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" /> </a> &nbsp; <a href="https://www.linkedin.com/in/divakarans" target="_blank"> <img align="center" alt="LinkedIn" width="30px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Linkedin.svg" /> </a> &nbsp; <a href="https://www.hackerrank.com/profile/sdivakaran" target="_blank"> <img align="center" alt="HackerRank" width="30px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.png" /> </a> &nbsp; <a href="https://www.freecodecamp.org/SDivakaran" target="_blank"> <img align="center" alt="FreeCodeCamp" width="30px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/freecode.png" /> </a> &nbsp; <a href="mailto:divakaran.sivasamy@gmail.com" target="_blank"> <img align="center" alt="Gmail" width="30px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" /> </a> &nbsp; <a href="https://drive.google.com/file/d/1VZpjovClp3hRfvyqhGTNrO4bBrKlhwMZ/view?usp=drivesdk" target="_blank"> <img align="center" alt="Resume" width="30px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" /> </a> </p>
+🧰 Languages and Tools:
+<p align="left"> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/react.png" alt="React" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/javascript.png" alt="JavaScript" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/html.png" alt="HTML5" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/css.png" alt="CSS3" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/postgre.png" alt="PostgreSQL" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/visual-studio-code.png" alt="VS Code" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/database.png" alt="Database" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/github.png" alt="GitHub" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpres1.png" alt="WordPress" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/nodejs.png" alt="Node.js" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/express.png" alt="Express.js" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/fullstack.png" alt="Full Stack Development" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/linux.png" alt="Linux" width="30px"/> <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/photoshop.png" alt="Photoshop" width="30px"/> </p>
+🏆 GitHub Profile Trophy:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=diva-sl&column=8&theme=darkhub&no-frame=true&no-bg=true" width="800px"/> </a> </p>
+📊 GitHub Stats:
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diva-sl&theme=2077" width="400px"/> </p>
+👨‍💻 Top Languages Used:
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=2077&refresh=1" width="400px"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=2077&refresh=1" width="400px"/> </p>
+📈 GitHub Activity Graph:
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diva-sl&theme=2077" width="800px"/> </p>
+📍 Profile Visitor Count:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diva-sl&label=Profile%20Views&color=blue&style=flat" alt="diva-sl" /> </p>
+*NOTE: Top languages used does not indicate my skill level, it's a GitHub metric that shows the languages I have the most code on GitHub.
 
-### Hi, I'm Divakaran S <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/Hi.gif" width="22px">
-
-<br />
-<h3 align="center">A passionate Full stack developer from India</h3>
-<br />
-
----
-
-<br />
-
-- 💻 Currently working as a Full Stack Developer
-- 🌱 Learning Python to expand my technical skills
-- 👯 Looking to collaborate on web development projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
-
-<br />
-
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank">
-  <img align="center" alt="Divakaran S | Portfolio" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/divakarans" target="_blank">
-  <img align="center" alt="Divakaran S | Linkedin" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/sdivakaran" target="_blank">
-  <img align="center" alt="Divakaran S | HackerRank" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/HackerRank.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/SDivakaran" target="_blank">
-  <img align="center" alt="Divakaran S | freecodecamp" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/freecode.png" />
-</a> &nbsp;&nbsp;
-<a href="mailto:divakaran.sivasamy@gmail.com" target="_blank">
-  <img align="center" alt="Divakaran S | Gmail" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1VZpjovClp3hRfvyqhGTNrO4bBrKlhwMZ/view?usp=drivesdk">
-    <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
-</a> &nbsp;&nbsp;
-<br />
-### 🧰 Languages and Tools:
-
-<img align="left" alt="React" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/react.png" />
-<img align="left" alt="Javascript" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/css.png" />
-<img align="left" alt="PSQL" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/postgre.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Database" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/database.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/github.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/wordpres1.png" />
-<img align="left" alt="NodeJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/nodejs.png" />
-<img align="left" alt="ExpressJs" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/express.png" />
-<img align="left" alt="Fullstack" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/fullstack.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/linux.png" />
-<img align="left" alt="PhotoShop" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/photoshop.png" />
-<br />
-<br />
-
-<!-- Profile Trophy -->
-
-### 🏆 GitHub Profile Trophy:
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=diva-sl&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-<!--   Stats -->
-
-### 📊 GitHub Stats:
-
-![Divakaran S github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diva-sl&theme=2077)
-
-<!--   Top Languages Using -->
-
-### 👨‍💻 Top Languages Used\*:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=2077&refresh=1)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=2077&refresh=1)
-
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diva-sl&theme=2077)
-
- <br>
- <br>
- <hr>
- 
- <br>
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
- <!-- <img src="https://profile-counter.glitch.me/darshanr27/count.svg" /> -->  
-</p>
-   
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
+🔥 Keep Coding, Keep Learning!

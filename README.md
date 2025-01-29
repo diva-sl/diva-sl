@@ -60,7 +60,9 @@
     <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
   
-<br>
+
+<br />
+
 
 <!-- Profile Trophy -->
 

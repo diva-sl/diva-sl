@@ -41,7 +41,6 @@
 
 ### 😄 Can Connect With Me On :
 
-<p align="center">
 <a href="https://edtechmastery.tech/index.php/div-developers/" target="_blank">
   <img align="center" alt="Divakaran S | Portfolio" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/personal.jpg" />
 </a> &nbsp;&nbsp;
@@ -60,7 +59,6 @@
 <a href="https://drive.google.com/file/d/1mamMmcRazmyrkljq-cc_HOvXpBaRqPoB/view">
     <img align="center" alt="Divakaran S | Resume" width="24px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
-<p>
   
 <br>
 

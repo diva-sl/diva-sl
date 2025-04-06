@@ -118,14 +118,14 @@
  
  <br>
   
-<div align=center>
+<div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
- <!-- <img src="https://profile-counter.glitch.me/darshanr27/count.svg" /> -->  
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/diva-sl/count.svg" />
 </p>
+
    
   ---
   *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*

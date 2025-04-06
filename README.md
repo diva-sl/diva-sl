@@ -17,20 +17,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
 
-<br /># 👋 Hi, I'm Divakaran
-
-🚀 A passionate **Full Stack Developer** from India with a strong focus on building impactful web solutions using **React**, **Next.js**, **TypeScript**, and more.
-
----
-
-## 🔗 Connect with Me
-
-- 🌐 [Portfolio](https://diva-sl.github.io)
-- 📫 Email: divakaran.sivasamy@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/divakarans)
-- 💻 [GitHub](https://github.com/diva-sl)
-
----
+<br />
 
 ## 🚀 Web Development Projects
 

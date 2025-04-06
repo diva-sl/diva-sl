@@ -17,21 +17,38 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
 
-<br />
+<br /># 👋 Hi, I'm Divakaran
+
+🚀 A passionate **Full Stack Developer** from India with a strong focus on building impactful web solutions using **React**, **Next.js**, **TypeScript**, and more.
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 [Portfolio](https://diva-sl.github.io)
+- 📫 Email: divakaran.sivasamy@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/divakarans)
+- 💻 [GitHub](https://github.com/diva-sl)
+
+---
 
 ## 🚀 Web Development Projects
 
-A curated list of my live web development work 💻✨
+✨ A curated list of my live full-stack web projects built using **React**, **Next.js**, and **TypeScript**.
 
-| 🌐 Project | 🔗 Live Link | 📝 Description |
+| 🌐 Project | 🔗 Live | 📝 Description |
 |:--|:--:|:--|
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Giveaze** | [🌍 giveaze.com](https://giveaze.com) | Donation platform connecting NGOs and donors with an intuitive WordPress UI. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Space Centres Near Me** | [🌍 spacentresnearme.com](https://spacentresnearme.com) | Business Listing locator to help users find and book nearby services. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Legacy Aye** | [🌍 legacyaye.com](https://legacyaye.com) | Digital legacy planning and secure document management solution. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Algo Trading Elite** | [🌍 algotradingelite.com](https://algotradingelite.com) | Tamil-language platform for stock market learning and algo trading. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Tricone Digital** | [🌍 triconedigital.com](https://triconedigital.com) | Web services agency site offering WordPress solutions and branding. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Equiwiz** | [🌍 equiwiz.info](https://equiwiz.info) | Horse pedigree dashboard with detailed lineage and records. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Online Legal Service India** | [🌍 onlinelegalserviceindia.in](https://onlinelegalserviceindia.in) | Indian legal services and documentation through a user-friendly portal. |
+| **Giveaze** | [giveaze.com](https://giveaze.com) | Temple restoration platform supporting ancient heritage through transparent donations and community-driven efforts. |
+| **Space Centres Near Me** | [spacentresnearme.com](https://spacentresnearme.com) | Local business listing site (like Yelp) for wellness, spas, and personal care services with search and booking features. |
+| **Legacy Aye** | [legacyaye.com](https://legacyaye.com) | Educational and legacy management platform offering student learning tools and secure document storage. |
+| **Algo Trading Elite** | [algotradingelite.com](https://algotradingelite.com) | Tamil-language algo trading platform powered by AI with tools for automated trading and strategic investment. |
+| **Equiwiz** | [equiwiz.info](https://equiwiz.info) | Financial platform covering stocks, forex, mutual funds, US stocks, and AIF with personalized investment tools. |
+| **Tricone Digital** | [triconedigital.com](https://triconedigital.com) | Business website for digital services including branding, SEO, and full-stack development consulting. |
+| **Online Legal Service India** | [onlinelegalserviceindia.in](https://onlinelegalserviceindia.in) | Legal service portal providing document processing and consultations in an easy-to-use format for Indian users. |
+
+---
+
+> ✨ Always building. Always learning. Let’s connect and collaborate!
 
 <br />
 

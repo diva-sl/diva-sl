@@ -19,17 +19,20 @@
 
 <br />
 
-### 🌐 My Web Development Projects
+## 🚀 Web Development Projects
 
-| Project | Live Link | Description |
-|--------|-----------|-------------|
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Giveaze** | [🔗 giveaze.com](https://giveaze.com) | Donation platform connecting NGOs and donors. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Space Centres Near Me** | [🔗 spacentresnearme.com](https://spacentresnearme.com) | Spa and wellness center locator. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Legacy Aye** | [🔗 legacyaye.com](https://legacyaye.com) | Legacy planning and digital documentation hub. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Algo Trading Elite** | [🔗 algotradingelite.com](https://algotradingelite.com) | Platform for stock trading education in Tamil. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Tricone Digital** | [🔗 triconedigital.com](https://triconedigital.com) | Web & digital services for small businesses. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Equiwiz** | [🔗 equiwiz.info](https://equiwiz.info) | Horse breeding, lineage, and data dashboard. |
-| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Online Legal Service India** | [🔗 onlinelegalserviceindia.in](https://onlinelegalserviceindia.in) | Indian legal and document services platform. |
+A curated list of my live web development work 💻✨
+
+| 🌐 Project | 🔗 Live Link | 📝 Description |
+|:--|:--:|:--|
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Giveaze** | [🌍 giveaze.com](https://giveaze.com) | Donation platform connecting NGOs and donors with an intuitive WordPress UI. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Space Centres Near Me** | [🌍 spacentresnearme.com](https://spacentresnearme.com) | Business Listing locator to help users find and book nearby services. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Legacy Aye** | [🌍 legacyaye.com](https://legacyaye.com) | Digital legacy planning and secure document management solution. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Algo Trading Elite** | [🌍 algotradingelite.com](https://algotradingelite.com) | Tamil-language platform for stock market learning and algo trading. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Tricone Digital** | [🌍 triconedigital.com](https://triconedigital.com) | Web services agency site offering WordPress solutions and branding. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Equiwiz** | [🌍 equiwiz.info](https://equiwiz.info) | Horse pedigree dashboard with detailed lineage and records. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="22px" /> **Online Legal Service India** | [🌍 onlinelegalserviceindia.in](https://onlinelegalserviceindia.in) | Indian legal services and documentation through a user-friendly portal. |
+
 <br />
 
 ### 🧰 Languages and Tools:

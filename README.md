@@ -2,7 +2,7 @@
 <br />
 <br />
 
-![My Profile Image](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1743033600&v=beta&t=ILx695S2tG6EdF5p6RX1hay3TtskZ73cBrOVsMhUBGk)
+![My Profile Image](https://github.com/diva-sl/diva-sl/blob/master/1693753179836.gif)
 <br />
 
 ---

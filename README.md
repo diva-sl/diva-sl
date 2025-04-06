@@ -3,7 +3,6 @@
 <br />
 
 ![My Profile Image](https://github.com/diva-sl/diva-sl/blob/master/1693753179836.gif)
-<br />
 
 ---
 <h3 align="center">A passionate Full stack developer from India</h3>
@@ -18,6 +17,19 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
 
+<br />
+
+### 🌐 My Web Development Projects
+
+| Project | Live Link | Description |
+|--------|-----------|-------------|
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Giveaze** | [🔗 giveaze.com](https://giveaze.com) | Donation platform connecting NGOs and donors. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Space Centres Near Me** | [🔗 spacentresnearme.com](https://spacentresnearme.com) | Spa and wellness center locator. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Legacy Aye** | [🔗 legacyaye.com](https://legacyaye.com) | Legacy planning and digital documentation hub. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Algo Trading Elite** | [🔗 algotradingelite.com](https://algotradingelite.com) | Platform for stock trading education in Tamil. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Tricone Digital** | [🔗 triconedigital.com](https://triconedigital.com) | Web & digital services for small businesses. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Equiwiz** | [🔗 equiwiz.info](https://equiwiz.info) | Horse breeding, lineage, and data dashboard. |
+| <img src="https://github.com/diva-sl/div-pro/blob/master/Assets/www.png" width="20px" /> **Online Legal Service India** | [🔗 onlinelegalserviceindia.in](https://onlinelegalserviceindia.in) | Indian legal and document services platform. |
 <br />
 
 ### 🧰 Languages and Tools:

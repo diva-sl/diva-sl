@@ -27,7 +27,6 @@
 |:--|:--:|:--|
 | **Giveaze** | [giveaze.com](https://giveaze.com) | Temple restoration platform supporting ancient heritage through transparent donations and community-driven efforts. |
 | **SpaCentres Near Me** | [spacentresnearme.com](https://spacentresnearme.com) | Local business listing site for wellness, spas, and personal care services with search and booking features. |
-| **Algo Trading Elite** | [algotradingelite.com](https://algotradingelite.com) | Tamil-language algo trading platform powered by AI with tools for automated trading and strategic investment. |
 | **Equiwiz** | [equiwiz.info](https://equiwiz.info) | Financial platform covering stocks, forex, mutual funds, US stocks, and AIF with personalized investment tools. |
 | **Legacy Aye** | [legacyaye.com](https://legacyaye.com) | Educational and legacy management platform offering student learning tools and secure document storage. |
 | **Tricone Digital** | [triconedigital.com](https://triconedigital.com) | Business website for digital services including branding, SEO, and full-stack development consulting. |

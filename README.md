@@ -121,6 +121,7 @@
 </div>
 
 <p align="center">
+  ![Hits](https://hits.sh/github.com/diva-sl.svg?style=flat-square)
   <img src="https://profile-counter.glitch.me/diva-sl/count.svg" />
 </p>
 

@@ -116,13 +116,13 @@
  
  <br>
   
+<!-- 📍 Profile Visitor Counter Section -->
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-  ![Hits](https://hits.sh/github.com/diva-sl.svg?style=flat-square)
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/diva-sl/count.svg" />
+  <img src="https://hits.sh/github.com/diva-sl.svg?style=flat-square" alt="Profile Visit Count">
 </p>
 
    

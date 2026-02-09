@@ -26,6 +26,7 @@
 | 🌐 Project | 🔗 Live | 📝 Description |
 |:--|:--:|:--|
 | **Giveaze** | [giveaze.com](https://giveaze.com) | Temple restoration platform supporting ancient heritage through transparent donations and community-driven efforts. |
+| **V-Danta (React Native App)** | 🚧 In Development | A multi-functional mobile application focused on health tracking, step monitoring, skill development courses, and integrated product sales — designed to promote wellness and continuous learning within a single ecosystem. |
 | **SpaCentres Near Me** | [spacentresnearme.com](https://spacentresnearme.com) | Local business listing site for wellness, spas, and personal care services with search and booking features. |
 | **Legacy Aye** | [legacyaye.com](https://legacyaye.com) | Educational and legacy management platform offering student learning tools and secure document storage. |
 | **AG & Associates** | [agandassociates.org](https://agandassociates.org/) | Professional corporate website developed for a chartered accountant firm, presenting audit, taxation, and financial advisory services with a modern, responsive design. |

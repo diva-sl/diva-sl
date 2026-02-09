@@ -25,11 +25,11 @@
 
 | 🌐 Project | 🔗 Live | 📝 Description |
 |:--|:--:|:--|
+| **AG & Associates** | [agandassociates.org](https://agandassociates.org/) | Professional corporate website developed for a chartered accountant firm, presenting audit, taxation, and financial advisory services with a modern, responsive design. |
 | **Giveaze** | [giveaze.com](https://giveaze.com) | Temple restoration platform supporting ancient heritage through transparent donations and community-driven efforts. |
 | **V-Danta (React Native App)** | 🚧 In Development | A multi-functional mobile application focused on health tracking, step monitoring, skill development courses, and integrated product sales — designed to promote wellness and continuous learning within a single ecosystem. |
 | **SpaCentres Near Me** | [spacentresnearme.com](https://spacentresnearme.com) | Local business listing site for wellness, spas, and personal care services with search and booking features. |
 | **Legacy Aye** | [legacyaye.com](https://legacyaye.com) | Educational and legacy management platform offering student learning tools and secure document storage. |
-| **AG & Associates** | [agandassociates.org](https://agandassociates.org/) | Professional corporate website developed for a chartered accountant firm, presenting audit, taxation, and financial advisory services with a modern, responsive design. |
 | **Tricone Digital** | [triconedigital.com](https://triconedigital.com) | Business website for digital services including branding, SEO, and full-stack development consulting. |
 | **Online Legal Service India** | [onlinelegalserviceindia.in](https://onlinelegalserviceindia.in) | Legal service portal providing document processing and consultations in an easy-to-use format for Indian users. |
 

@@ -11,9 +11,9 @@
 ---
 <br />
 
-- 💻 Currently working as a Full Stack Developer
-- 🌱 Learning Python to expand my technical skills
-- 👯 Looking to collaborate on web development projects
+- 💻 Currently working as a Full Stack Developer (React, Next.js, Node.js, Go/Fiber)
+- 🌱 Learning Python and advanced Go microservices to expand my technical skills
+- 👯 Looking to collaborate on web development and API projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm stuck in a color dilemma for a new website design—any suggestions?
 
@@ -21,10 +21,11 @@
 
 ## 🚀 Web Development Projects
 
-✨ A curated list of my live full-stack web projects built using **React**, **Next.js**, and **TypeScript**.
+✨ A curated list of my live full-stack web projects built using **React**, **Next.js**, **Go**, and **TypeScript**.
 
 | 🌐 Project | 🔗 Live | 📝 Description |
 |:--|:--:|:--|
+| **Praxorium** | 🚧 In Development | Educational Unit Program (EUP) administrative portal and public catalog built with **React**, **Go (Fiber v2)**, and **MongoDB Atlas** database integration. |
 | **AG & Associates** | [agandassociates.org](https://agandassociates.org/) | Professional corporate website developed for a chartered accountant firm, presenting audit, taxation, and financial advisory services with a modern, responsive design. |
 | **Giveaze** | [giveaze.com](https://giveaze.com) | Temple restoration platform supporting ancient heritage through transparent donations and community-driven efforts. |
 | **V-Danta (React Native App)** | 🚧 In Development | A multi-functional mobile application focused on health tracking, step monitoring, skill development courses, and integrated product sales — designed to promote wellness and continuous learning within a single ecosystem. |
@@ -41,6 +42,8 @@
 
 ### 🧰 Languages and Tools:
 
+<img align="left" alt="Go (Golang)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/react.png" />
 <img align="left" alt="Javascript" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/html.png" />
@@ -57,8 +60,6 @@
 <img align="left" alt="PhotoShop" width="26px" src="https://github.com/diva-sl/div-pro/blob/master/Assets/photoshop.png" />
 <br />
 <br />
-
-
 
 ### 😄 Can Connect With Me On :
 
@@ -85,7 +86,6 @@
 <br />
 <br />
 
-
 <!-- Profile Trophy -->
 
 ### 🏆 GitHub Profile Trophy:
@@ -102,7 +102,7 @@
 
 <!--   Top Languages Using -->
 
-### 👨‍💻 Top Languages Used\*:
+### 👨💻 Top Languages Used\*:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diva-sl&theme=2077&refresh=1)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diva-sl&theme=2077&refresh=1)
 

@@ -26,6 +26,7 @@
 | 🌐 Project | 🔗 Live | 📝 Description |
 |:--|:--:|:--|
 | **Praxorium** | 🚧 In Development | Educational Unit Program (EUP) administrative portal and public catalog built with **React**, **Go (Fiber v2)**, and **MongoDB Atlas** database integration. |
+| **KiddoStyle** | [kiddostyle.gcvdanta.com](https://kiddostyle.gcvdanta.com/) | Modern e-commerce platform for kids' fashion built with **Next.js**, **Go (Fiber v2)**, **MongoDB**, and **AWS S3**. Features include product catalog, secure authentication, shopping cart, order management, and a comprehensive admin dashboard for inventory and content management. |
 | **AG & Associates** | [agandassociates.org](https://agandassociates.org/) | Professional corporate website developed for a chartered accountant firm, presenting audit, taxation, and financial advisory services with a modern, responsive design. |
 | **Giveaze** | [giveaze.com](https://giveaze.com) | Temple restoration platform supporting ancient heritage through transparent donations and community-driven efforts. |
 | **V-Danta (React Native App)** | 🚧 In Development | A multi-functional mobile application focused on health tracking, step monitoring, skill development courses, and integrated product sales — designed to promote wellness and continuous learning within a single ecosystem. |
